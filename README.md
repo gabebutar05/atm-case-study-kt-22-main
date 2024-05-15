@@ -12,8 +12,8 @@ Harap ikuti instruksi berikut **sebelum** Anda mulai mengerjakan proyek ini:
 ---
 
 ```plaintext
-Nama Lengkap:         { MASUKKAN NAMA ANDA DISINI }
-Asal Kampus/Sekolah:  { MASUKKAN NAMA LEMBAGA ANDA DISINI }
+Nama Lengkap:         { Ramadi G Butarbutar }
+Asal Kampus/Sekolah:  { Universitas Pembangunan Nasional Veteran Yogyakarta }
 ```
 
 ---
@@ -157,4 +157,4 @@ Asal Kampus/Sekolah:  { MASUKKAN NAMA LEMBAGA ANDA DISINI }
 
 _Silakan masukkan ulasan Anda di sini, hanya setelah Anda menyelesaikan project ini, baik setelah selesai atau karena batas waktu!_
 
-> ```{ TULIS REVIEW ANDA DISINI }```
+> ```{ Menurut saya project test yang diberikan cukup menantang dan banyak library java yang belum biasa dan tidak pernah saya gunakan, namun sangat bagus buat saya jikaingin belajar lebih dalam tentang pemograman java }```
